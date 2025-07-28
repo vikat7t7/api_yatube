@@ -1,0 +1,9 @@
+pytest-django
+pytest-pythonpath==0.7.3
+requests
+pillow
+sorl-thumbnail
+django==2.2.6
+djangorestframework
+# djangorestframework-simplejwt==4.7.1
+# djoser==2.1.0
